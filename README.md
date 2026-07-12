@@ -20,12 +20,12 @@ O desenvolvimento foi dividido em quatro etapas documentadas nos seguintes cader
 * 📄 `03_avaliacao.ipynb`: Avaliação técnica do modelo. Contém a geração de grades comparativas visuais (Base vs. LoRA), testes de memorização (overfitting) e o cálculo quantitativo de fidelidade texto-imagem utilizando a métrica matemática **CLIPScore**.
 * 📄 `app.ipynb`: Código-fonte da aplicação final. Consolida o frontend em Gradio e o fluxo de dados entre os três modelos de inferência, com tratamento de exceções e túnel reverso para acesso web.
 
-## 📂 Estrutura do Repositório
-* 📊 Os dados usados para o trienamento dos Modelos estão amazenados dentro da pasta **dados**
-* 📊 Os resultados gerados pela Modelo após o finetune estão armazenados na pasta **dados/avaliacao**
-
 ## 📊 Resultados e Avaliação
 A aplicação bem-sucedida do LoRA forçou a rede neural a abandonar sua tendência ao fotorrealismo padrão, adaptando os tensores para replicar o desgaste, as silhuetas irregulares e a textura rochosa exigidas pelo domínio ancestral. A métrica CLIPScore confirmou a consistência semântica entre os prompts instruídos e as saídas abstratas geradas.
+
+## 📂 Resultados no Repositório
+* 📊 Os dados usados para o trienamento dos Modelos estão amazenados dentro da pasta **dados**
+* 📊 Os resultados gerados pela Modelo após o finetune estão armazenados na pasta **dados/avaliacao**
 
 ## ⚖️ Reflexão Ética
 O projeto inclui uma análise sobre o impacto do uso de IA generativa em patrimônios culturais. A conversão de arte rupestre ancestral em dados sintéticos levanta debates sobre apropriação, propriedade intelectual de povos originários e o risco de desinformação arqueológica, exigindo transparência clara na interface sobre a natureza sintética das imagens.
