@@ -28,5 +28,5 @@ O projeto inclui uma análise sobre o impacto do uso de IA generativa em patrim�
 
 ## 👨‍💻 Autor
 **Luis Curado**
-* [\[Link para o LinkedIn\]](https://www.linkedin.com/in/luis-curado-478539a2/)
-* [\[Link para o Portfólio/Hugging Face\]](https://huggingface.co/LuisCurado)
+* [\LinkedIn\](https://www.linkedin.com/in/luis-curado-478539a2/)
+* [\Portfólio/Hugging Face\](https://huggingface.co/LuisCurado)
